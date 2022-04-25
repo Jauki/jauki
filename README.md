@@ -4,7 +4,7 @@ Hi 👋 My name is Julian Jauk
 Web Developer and Web Designer
 ------------------------------
 
-I've been coding for 4 years know and currently completing High School in Southern Styria, Austria 🇦🇹
+I've been coding for 4 years now and currently completing High School in Southern Styria, Austria 🇦🇹
 
 *   🌍  I'm based in Graz
 *   ✉️  You can contact me at [jaujuc18@htl-kaindorf.at](mailto:jaujuc18@htl-kaindorf.at)
