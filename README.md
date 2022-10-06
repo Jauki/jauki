@@ -1,14 +1,14 @@
 Hi 👋 My name is Julian Jauk
 ============================
 
-Web Developer and Web Designer
+Full-Stack Developer and Web Designer
 ------------------------------
 
-I've been coding for 4 years now and currently completing High School in Southern Styria, Austria 🇦🇹
+I've been coding for 5 years now and currently completing High School in Southern Styria, Austria 🇦🇹
 
-*   🌍  I'm based in Graz
-*   ✉️  You can contact me at [jaujuc18@htl-kaindorf.at](mailto:jaujuc18@htl-kaindorf.at)
-*   🧠  I'm learning ReactJS
+*   🌍  I'm based near Graz
+*   ✉️  You can contact me at [jauk.j@proton.me](mailto:jauk.j@proton.me)
+*   🧑‍💻  UI/UX enthusiast
 
 ### Skills
 <p align="left">
@@ -23,7 +23,7 @@ I've been coding for 4 years now and currently completing High School in Souther
                     
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/Jauki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JaukJulian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Jauki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
